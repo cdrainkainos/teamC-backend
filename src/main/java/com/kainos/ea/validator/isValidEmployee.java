@@ -1,7 +1,6 @@
 package com.kainos.ea.validator;
 
 import com.kainos.ea.model.employeerequest;
-import com.kainos.ea.model.salesemployeerequest;
 
 public class isValidEmployee {
 

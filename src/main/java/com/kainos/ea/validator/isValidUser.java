@@ -1,7 +1,6 @@
 package com.kainos.ea.validator;
 
 import com.kainos.ea.model.UserRequest;
-import com.kainos.ea.model.salesemployeerequest;
 
 public class isValidUser {
     public boolean isUserValid(UserRequest req){
