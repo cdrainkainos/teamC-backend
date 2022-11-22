@@ -1,9 +1,7 @@
 package com.kainos.ea.service;
 
 import com.kainos.ea.dao.EmployeeDao;
-import com.kainos.ea.dao.salesEmployeeDao;
 import com.kainos.ea.model.employeerequest;
-import com.kainos.ea.model.salesemployeerequest;
 
 import java.sql.ResultSet;
 import java.util.ArrayList;
